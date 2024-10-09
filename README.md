@@ -12,18 +12,18 @@ Steps:
 9) Go to VCS > GIT > Pull to update your local repository with changes from Github.
 
 Glossary: 
-Branch: A parallel version of the repository, allowing for different lines of development. 
-Clone: A copy of repository that is hosted on a remote server, downloaded to your local machine. 
-Commit: A snapshot of the changes made to the code, stored in the repository's  history. 
-Fetch: Downloading changes from the remote repository to your local repository without merging. 
-GIT: A version control system that tracks changes in files and coordinates work among multiple people.
-Github: A platform for hosting and collaborating on Git repositories. 
-Merge: Combining changes from different branches into a single branch.
-Merge conflict: Occurs when changes in different branches conflict and must be resolved before merging. 
-Push: Uploading local repository changed to the remote repository on Github. 
-Pull: Fetching changes from the remote repository and merging them into the local repository.
-Remote: A version of the repository that is hosted on the internet or another network.
-Repository: A storage space where your project files and their revision history are stored. 
+1) Branch: A parallel version of the repository, allowing for different lines of development.
+2) Clone: A copy of repository that is hosted on a remote server, downloaded to your local machine.
+3) Commit: A snapshot of the changes made to the code, stored in the repository's  history.
+4) Fetch: Downloading changes from the remote repository to your local repository without merging.
+5) GIT: A version control system that tracks changes in files and coordinates work among multiple people.
+6) Github: A platform for hosting and collaborating on Git repositories.
+7) Merge: Combining changes from different branches into a single branch.
+8) Merge conflict: Occurs when changes in different branches conflict and must be resolved before merging.
+9) Push: Uploading local repository changed to the remote repository on Github.
+10) Pull: Fetching changes from the remote repository and merging them into the local repository.
+11) Remote: A version of the repository that is hosted on the internet or another network.
+12) Repository: A storage space where your project files and their revision history are stored. 
 
   Refrence:
   https://git-scm.com/book/en/v2
